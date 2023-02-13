@@ -1,0 +1,22 @@
+.signupForm{
+    width : 100%;
+    height:100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+}
+.form{
+    width:100%;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 19px;
+}
+.inputFiled{
+    width:50%;
+   
+}
