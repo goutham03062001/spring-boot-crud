@@ -1,10 +1,10 @@
-package com.example.WhatsApp;
+package com.example.WhatsAppClone;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class WhatsAppApplicationTests {
+class WhatsAppCloneApplicationTests {
 
 	@Test
 	void contextLoads() {
